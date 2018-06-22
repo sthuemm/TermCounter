@@ -3,4 +3,7 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="speech_prompt">Text wird aufgenommen&#8230;</string>
+    <string name="speech_not_supported">Entschuldigung, Text-to-speech wird von diesem Gerät nicht unterstützt</string>
+    <string name="tap_on_mic">Drücken Sie auf das Mikrofon um mit der Textaufnahme zu beginnen</string>
 </resources>
